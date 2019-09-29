@@ -1,0 +1,1 @@
+module.exports.rules = require('./lib/rules/map.js');
